@@ -1,0 +1,4 @@
+* txt=auto
+
+* jpg binary
+* png binary
